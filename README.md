@@ -3,7 +3,7 @@ Hi! I'm Oroni. While I majored in computer science and most of my interships and
 
 ## Chef 449
 
-CS 449 (HCI) allowed me to get hands-on experience with the UX process by working collaboratively within a team of four to create a high-fidelity prototype of an app with a personalized AI cooking assistant. My teammates and I wrote up this project portfolio that summarizes our whole process, check it out: https://docs.google.com/document/d/1lNVjurTwWHKNS7iNYl6BO3pldFBV6Yz0v93p5wTdlug/edit?usp=sharing
+CS 449 (HCI) allowed me to get hands-on experience with the UX process by working collaboratively within a team of four to create a high-fidelity prototype of an app with a personalized AI cooking assistant. Our goal was to create a smooth and user-friendly experience with this AI-assisted app through generating recipes based on ingredients and kitchenware the user already has, as well as the dietary needs and restrictions of the user. The app also aimed to customize recipe instructions based on the user's skill-level. My teammates and I wrote up this project portfolio that summarizes our whole process, check it out: https://docs.google.com/document/d/1lNVjurTwWHKNS7iNYl6BO3pldFBV6Yz0v93p5wTdlug/edit?usp=sharing
 
 ## Flower App
 
