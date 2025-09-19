@@ -17,15 +17,21 @@ Some of my favourite parts in the process were conducting user interviews, comin
 </figure>
 
 <figure>
+
+<br>
   
   <img width="500" alt="feature creation" src="https://github.com/user-attachments/assets/d93385eb-ec7c-41be-b038-d796357c93e1" />
   <figcaption>Coming up with feature ideas</figcaption>
 </figure>
 
+<br>
+
 <figure>
   <img width="500" height="258" alt="improvements after evaluations" src="https://github.com/user-attachments/assets/fc5a3f84-83f7-4afa-b8fa-423357e8b54a" />
   <figcaption>Honing down on main improvements after receiving design evaluations from peers</figcaption>
 </figure>
+
+<br>
 
 
 
