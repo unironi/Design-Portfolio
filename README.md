@@ -15,10 +15,11 @@ Some of my favourite parts in the process were conducting user interviews, comin
   <img width="500" alt="notes during user interviews" src="https://github.com/user-attachments/assets/2d82cf7e-5890-4420-9ce4-09e73134ec6b" />
   <figcaption>Some of the notes I took during user interviews</figcaption>
 </figure>
+<br>
+
 
 <figure>
 
-<br>
   
   <img width="500" alt="feature creation" src="https://github.com/user-attachments/assets/d93385eb-ec7c-41be-b038-d796357c93e1" />
   <figcaption>Coming up with feature ideas</figcaption>
