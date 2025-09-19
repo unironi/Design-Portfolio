@@ -10,6 +10,24 @@ If you'd like to know more about any part of the process, feel free to reach out
 
 Some of my favourite parts in the process were conducting user interviews, coming up with features based on findings on our users, reflecting on our design and improving it, and creating graphics to make the app more visually appealing. It was fun to exercise my creativity and problem-solving when coming up with features and reflecting on our design, although we did not have to fully implement all the features we thought of.
 
+<figure>
+  
+  <img width="500" alt="notes during user interviews" src="https://github.com/user-attachments/assets/2d82cf7e-5890-4420-9ce4-09e73134ec6b" />
+  <figcaption>Some of the notes I took during user interviews</figcaption>
+</figure>
+
+<figure>
+  
+  <img width="500" alt="feature creation" src="https://github.com/user-attachments/assets/d93385eb-ec7c-41be-b038-d796357c93e1" />
+  <figcaption>Coming up with feature ideas</figcaption>
+</figure>
+
+<figure>
+  <img width="500" height="258" alt="improvements after evaluations" src="https://github.com/user-attachments/assets/fc5a3f84-83f7-4afa-b8fa-423357e8b54a" />
+  <figcaption>Honing down on main improvements after receiving design evaluations from peers</figcaption>
+</figure>
+
+
 
 
 ## Flower App
