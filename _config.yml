@@ -1,5 +1,5 @@
 title: Oroni's Design Portfolio
-description: Check out my UI/UX journey! (It's not much but I'm trying)
+description: Dabbling in UI/UX
 remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
