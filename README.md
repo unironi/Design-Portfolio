@@ -46,6 +46,6 @@ This was one of my first attempts at designing an app, which was meant to allow 
 
 ## Connect with me!
 
-- LinkedIn: https://www.linkedin.com/in/oroni-hasan/
-- Emails: o3hasan@uwaterloo.ca or oronihasan@gmail.com
-- Instagram (art account): https://www.instagram.com/ororotheunicorn/
+- <a href="https://www.linkedin.com/in/oroni-hasan/">LinkedIn</a>
+- <a href="o3hasan@uwaterloo.ca">o3hasan@uwaterloo.ca</a> or <a href="oronihasan@gmail.com">oronihasan@gmail.com</a>
+- <a href="https://www.instagram.com/ororotheunicorn/">Instagram (art account)</a>
