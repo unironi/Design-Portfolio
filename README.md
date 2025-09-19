@@ -1,3 +1,4 @@
+# My Design Journey
 ## Introduction
 Hi! I'm Oroni. While I majored in computer science and most of my interships and courses are related to software development, I also specialized in human-computer interaction (HCI) and minored in psychology, so I have also been interested in the design process. I have always been a visual person with illustration as my lifetime hobby, so UI was what first interested me. I started playing around in Adobe XD and Figma back in second year and created some prototypes, familiarizing myself with the platforms and its tools. Later, in my last term of undergrad, I took an HCI course where we went through the entire UX design process to create a high-fidelity prototype of an app based on our own user resesarch. While my exposure to this field has been brief, I have enjoyed exploring how to create features and design choices that meet users' needs.
 
